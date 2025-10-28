@@ -1,4 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Allow the app to access the internet -->
+    <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:label="smart_news"
         android:name="${applicationName}"

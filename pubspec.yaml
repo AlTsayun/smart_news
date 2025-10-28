@@ -14,6 +14,7 @@ dependencies:
   http: ^1.2.0
   xml: ^6.3.0
   webfeed_plus: ^1.1.2
+  shared_preferences: ^2.2.0
 
 dev_dependencies:
   flutter_test:
